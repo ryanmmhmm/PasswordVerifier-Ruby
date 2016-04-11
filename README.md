@@ -4,7 +4,7 @@ A [kata](http://osherove.com/tdd-kata-3-refactoring/) from [Roy Osherove](http:/
 
 ## Instructions
 
-Create a Password verifications class called `PasswordVerifier`.
+Create a password verifications class called `PasswordVerifier`.
 
 1. Add the following verifications to a class function `verify` that returns true or false.
     1. Password should be at least 8 characters.
